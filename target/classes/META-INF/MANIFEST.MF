@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: refeitorio
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tsi
+Implementation-Vendor-Id: br.com.refeitorio
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/refeitorio
+Created-By: Maven Integration for Eclipse
+
